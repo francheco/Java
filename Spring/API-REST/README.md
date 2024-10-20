@@ -56,6 +56,16 @@ Project Manager for Java
 
 
 
+POST HTTP Request using POSTMAN
+
+
+
+<img width="845" alt="image" src="https://github.com/user-attachments/assets/c88534b9-e6b2-43c6-9525-1d6d5bb4382a">
+
+
+
+
+
 
 
 
