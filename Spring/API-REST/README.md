@@ -96,8 +96,9 @@ Please run the main APIRestApplication.java package to start the program.
 
 
 
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/77dee068-7e08-4a56-91c4-7b86f6371cfe">
 
-<img width="620" alt="image" src="https://github.com/user-attachms/assets/979fc496-b46f-4a6a-b506-15ff4689ee65">
+
 
 
 
