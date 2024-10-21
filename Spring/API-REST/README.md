@@ -76,7 +76,9 @@ Project Manager for Java
 
 
 
-POST HTTP Request using POSTMAN
+POST HTTP Request using POSTMAN.
+
+In this code, I have created a complete CRUD method to test our API performance; I encourage you to also test it by yourself. 
 
 
 
@@ -87,7 +89,7 @@ POST HTTP Request using POSTMAN
 API REST code architecture
 
 
-Please run the main 
+Please run the main APIRestApplication.java package to start the program. 
 
 
 <img width="299" alt="image" src="https://github.com/user-attachments/assets/32960b7e-43e2-4933-98f9-7a43490ed86b">
@@ -95,10 +97,11 @@ Please run the main
 
 
 
-<img width="620" alt="image" src="https://github.com/user-attachments/assets/979fc496-b46f-4a6a-b506-15ff4689ee65">
+<img width="620" alt="image" src="https://github.com/user-attachms/assets/979fc496-b46f-4a6a-b506-15ff4689ee65">
 
 
 
+Please don't hesitate to contact me if you have any issues running or testing the code. We can also work together to improve it. 
 
 
 
