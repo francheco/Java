@@ -84,6 +84,18 @@ POST HTTP Request using POSTMAN
 
 
 
+API REST code architecture
+
+
+Please run the main 
+
+
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/32960b7e-43e2-4933-98f9-7a43490ed86b">
+
+
+
+
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/979fc496-b46f-4a6a-b506-15ff4689ee65">
 
 
 
@@ -98,5 +110,5 @@ POST HTTP Request using POSTMAN
 
 
 
->>>>>>> 0661c5399960d16ecbf05b5633204a7559640008
+
 
